@@ -1,4 +1,4 @@
 # super-mario-bross
 
 <p>Um site desenvolvido usando html, css e responsivo</p>
-![image](https://github.com/yasmink172003/super-mario-bross/assets/126991883/3de99a98-70c0-425d-b733-5494bec66ee7)
+[image](https://github.com/yasmink172003/super-mario-bross/assets/126991883/3de99a98-70c0-425d-b733-5494bec66ee7)
